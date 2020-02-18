@@ -1,0 +1,4 @@
+
+‡"squid:ClassVariableVisibilityCheck"RMake bitmap a static final constant or non-public and provide accessors if needed.(õÍî8†Ê¡….
+Lsquid:S1481")Remove this unused "list" local variable.(şû¥„úÿÿÿÿ8ÍÅ‚œ….
+Osquid:S1172",Remove this unused method parameter "value".(ã¦†éÿÿÿÿÿ8ñŠÌ˜….
