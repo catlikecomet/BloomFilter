@@ -15,5 +15,6 @@ public class main {
         set.add("e");
 
         System.out.println(set.contains("e"));
+        System.out.println(set.contains("quwhegfoiqehbfouqebF"));
     }
 }
