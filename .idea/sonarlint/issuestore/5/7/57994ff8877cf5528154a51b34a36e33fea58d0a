@@ -1,14 +1,50 @@
 
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(áÿ–úÿÿÿÿ8³ôú½‡.
 V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Òà´Ç8Å¢ı˜….
-Zsquid:S1854"7Remove this useless assignment to local variable "set".(õÒÏÎùÿÿÿÿ8¿Ã‰….
-Xsquid:S1854":Remove this useless assignment to local variable "cheese".(“Œ±Ü8¶¯¥….
-Isquid:S1481"+Remove this unused "cheese" local variable.(“Œ±Ü8¶¯¥….
-]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ª±öœ….
-osquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Õ°­°ùÿÿÿÿ8Å¢ı˜….
-¼%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(Õ°­°ùÿÿÿÿ8‘£….
-[squid:S1197"8Move the array designator from the variable to the type.(Õ°­°ùÿÿÿÿ8Å¢ı˜….
-Ksquid:S1481"(Remove this unused "set" local variable.(õÒÏÎùÿÿÿÿ8¿Ã‰….
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÉüş8ùºø½‡.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÅ±ªûÿÿÿÿ8³ôú½‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8Ş¿¿….
 V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ñè„Ø8öÜäœ….
-esquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ½Í8³ôú½‡.
+[squid:S1197
+"8Move the array designator from the variable to the type.(Õ°­°ùÿÿÿÿ8Å¢ı˜….
+osquid:S1223
+"LRename this method to prevent any misunderstanding or make it a constructor.(Õ°­°ùÿÿÿÿ8Å¢ı˜….
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜êŸ8„ˆ½….
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(„¢‹8³ôú½‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ªÍüÿÿÿÿ8³ôú½‡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÉüş8³ôú½‡.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(§µıÌùÿÿÿÿ8³ôú½‡.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Òà´Ç8Üœ÷½‡.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(íşÎúÿÿÿÿ8ÅÂÿ½‡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ç§8³ôú½‡.

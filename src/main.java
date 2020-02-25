@@ -8,13 +8,34 @@ import java.util.List;
 public class main {
 
     public static void main(String args[]) throws IOException, NoSuchAlgorithmException {
-        List<String> list = Files.readAllLines(Paths.get("/Users/cmummery/Training/wordlist.txt"), Charset.defaultCharset());
 
         Set set = new Set();
-
-        set.add("e");
+        List<String> list = Files.readAllLines(Paths.get("/Users/cmummery/Training/wordlist.txt"), Charset.defaultCharset());
+        for(String item: list){
+            System.out.println(item);
+            set.add(item);
+        }
 
         System.out.println(set.contains("e"));
-        System.out.println(set.contains("quwhegfoiqehbfouqebF"));
+        System.out.println(set.contains("kfdvqkefvqejfbheflqehv"));
+        System.out.println(set.contains("erq"));
+        System.out.println(set.contains("kfdvqkefvqejfbheflqehv"));
+        System.out.println(set.contains("wfbgrg"));
+        System.out.println(set.contains("kfdvqkerwwfvqejfbheflqehv"));
+        System.out.println(set.contains("qrqsa"));
+        System.out.println(set.contains("qwe"));
+        System.out.println(set.contains("asfc`xs"));
+        System.out.println(set.contains("sdfqergf"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
+        System.out.println(set.contains("qreg"));
     }
 }
