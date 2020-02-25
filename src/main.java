@@ -8,9 +8,8 @@ import java.util.List;
 public class main {
 
     public static void main(String args[]) throws IOException, NoSuchAlgorithmException {
-
-        Set set = new Set();
         List<String> list = Files.readAllLines(Paths.get("/Users/cmummery/Training/wordlist.txt"), Charset.defaultCharset());
+        Set set = new Set();
         for(String item: list){
             System.out.println(item);
             set.add(item);

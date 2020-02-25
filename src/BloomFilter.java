@@ -13,9 +13,11 @@ public class BloomFilter {
         //hashing the values
         result = md.digest(value.getBytes());
 
-            bitmap[result[0] + 128] = true;
-            bitmap[result[5] + 128] = true;
-            bitmap[result[9] + 128] = true;
+        double random = Math.random();
+
+            bitmap[result[(int)random] + 128] = true;
+            bitmap[result[(int)random] + 128] = true;
+            bitmap[result[(int)random] + 128] = true;
     }
 
     boolean contains(String value) {
